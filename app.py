@@ -1,7 +1,7 @@
 # 1. Define two numbers
 a = 5
 b = 8
-c = 100
+c = 1000
 
 # 2. Add them together
 result = a + b + c
